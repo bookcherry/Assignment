@@ -1,0 +1,9 @@
+phonons of Ni at X
+ &inputph
+  tr2_ph=1.0d-14,
+  prefix='nickel',
+  amass(1)=58.6934,
+  fildyn='niX.dyn',
+  outdir='/home/k-tsukamoto/win/Documents/QuantumEspresso/q-e-qe-6.7.0/tempdir/',
+ /
+0.0 0.0 1.0

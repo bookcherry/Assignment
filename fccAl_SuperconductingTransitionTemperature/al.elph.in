@@ -1,0 +1,15 @@
+Electron-phonon coefficients for Pb
+ &inputph
+  tr2_ph=1.0d-12,
+  prefix='al_lead',
+  fildvscf='aldv',
+  amass(1)=26.98,
+  outdir='/home/k-tsukamoto/win/Documents/QuantumEspresso/q-e-qe-6.7.0/tempdir/',
+  fildyn='al.dyn',
+  electron_phonon='interpolated',
+  el_ph_sigma=0.005, 
+  el_ph_nsigma=10,
+  trans=.true.,
+  ldisp=.true.
+  nq1=3, nq2=3, nq3=3
+ /

@@ -1,0 +1,10 @@
+Phonon dispersions for Al
+ &inputph
+  tr2_ph=1.0d-10,
+  prefix='al',
+  amass(1)=26.98,
+  outdir='/home/k-tsukamoto/win/Documents/QuantumEspresso/q-e-qe-6.7.0/tempdir/',
+  fildyn='al.disp.dyn',
+  ldisp=.true.
+  nq1=4, nq2=4, nq3=4,
+ /

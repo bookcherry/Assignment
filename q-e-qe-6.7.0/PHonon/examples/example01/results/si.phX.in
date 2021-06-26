@@ -1,0 +1,9 @@
+phonons of si at X
+ &inputph
+  tr2_ph=1.0d-14,
+  prefix='silicon',
+  amass(1)=28.08,
+  outdir='/home/k-tsukamoto/win/Documents/QuantumEspresso/q-e-qe-6.7.0/tempdir/',
+  fildyn='siX.dyn',
+ /
+1.0 0.0 0.0

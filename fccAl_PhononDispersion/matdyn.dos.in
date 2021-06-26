@@ -1,0 +1,8 @@
+&input
+  flfrc = 'al.fc'
+  asr = 'crystal'
+  dos = .true.
+  nk1 = 16,
+  nk2 = 16,
+  nk3 = 16,
+/
