@@ -1,0 +1,116 @@
+
+     Program Q2R v.6.7MaX starts on 26Jun2021 at 20:13:47 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+
+     reading grid info from file al.dyn0    
+  reading force constants from file al.dyn1
+  Dielectric Tensor not found
+  nqs=            1
+ q=   0.00000000  0.00000000  0.00000000
+  reading force constants from file al.dyn2
+  nqs=            8
+ q=  -0.33333333  0.33333333 -0.33333333
+ q=   0.33333333  0.33333333 -0.33333333
+ q=   0.33333333  0.33333333  0.33333333
+ q=  -0.33333333  0.33333333  0.33333333
+ q=   0.33333333 -0.33333333  0.33333333
+ q=  -0.33333333 -0.33333333 -0.33333333
+ q=   0.33333333 -0.33333333 -0.33333333
+ q=  -0.33333333 -0.33333333  0.33333333
+  reading force constants from file al.dyn3
+  nqs=            6
+ q=   0.00000000  0.66666667  0.00000000
+ q=  -0.66666667  0.00000000  0.00000000
+ q=   0.00000000 -0.66666667  0.00000000
+ q=   0.00000000  0.00000000  0.66666667
+ q=   0.00000000  0.00000000 -0.66666667
+ q=   0.66666667  0.00000000  0.00000000
+  reading force constants from file al.dyn4
+  nqs=           12
+ q=   0.66666667  0.00000000  0.66666667
+ q=   0.66666667  0.00000000 -0.66666667
+ q=  -0.66666667  0.00000000 -0.66666667
+ q=  -0.66666667  0.00000000  0.66666667
+ q=   0.00000000 -0.66666667  0.66666667
+ q=  -0.66666667  0.66666667  0.00000000
+ q=  -0.66666667 -0.66666667  0.00000000
+ q=   0.66666667  0.66666667  0.00000000
+ q=   0.66666667 -0.66666667  0.00000000
+ q=   0.00000000  0.66666667  0.66666667
+ q=   0.00000000  0.66666667 -0.66666667
+ q=   0.00000000 -0.66666667 -0.66666667
+
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+   Preparing gamma for a2F 
+
+
+ Broadening =      0.005
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.010
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.015
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.020
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.025
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.030
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.035
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.040
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.045
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+ Broadening =      0.050
+      q-space grid ok, #points =   27
+
+      fft-check success (sum of imaginary terms < 10^-12)
+
+     Q2R          :      0.03s CPU      0.02s WALL
+
+
+   This run was terminated on:  20:13:47  26Jun2021            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
